@@ -1,0 +1,20 @@
+# Required Python version
+# Python 3.8+
+
+# Core Libraries
+numpy
+scipy
+requests
+
+# Medical Imaging
+nibabel
+torchio
+
+# Machine Learning
+tensorflow>=2.0
+torch
+
+# Image Processing and Metrics
+scikit-image
+scikit-learn
+matplotlib
